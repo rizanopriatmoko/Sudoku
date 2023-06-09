@@ -1,0 +1,2 @@
+export const SET_BOARD = 'BOARD'
+export const SET_BOARDPROBLEM = 'SET_BOARDPROBLEM'
